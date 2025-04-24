@@ -8,6 +8,7 @@ ios/*.xcuserdatad/
 ios/Pods/
 ios/build/
 ios/*.xcodeproj/project.xcworkspace/
+ios/*.xcodeproj/xcshareddata/xcschemes/xcschememanagement.plist
 
 # === macOS files
 .DS_Store
