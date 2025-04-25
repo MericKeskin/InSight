@@ -1,0 +1,12 @@
+//
+//  Release.xcconfig
+//  InSight
+//
+//  Created by Meriç Keskin on 24.04.2025.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://developer.apple.com/documentation/xcode/adding-a-build-configuration-file-to-your-project
+
+SWIFT_OPTIMIZATION_LEVEL = -Owholemodule
+OTHER_SWIFT_FLAGS = -DPROD
