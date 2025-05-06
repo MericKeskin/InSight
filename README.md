@@ -1,7 +1,7 @@
 # InSight
 
 ## 📌 Overview
-InSight is a real-time protest mapping application that provides live updates on protests, roadblocks, and medic areas using an interactive map. The app enables users to report events, receive push notifications, and stay informed about their surroundings while maintaining privacy.
+InSight is a real-time emergency mapping application that provides live updates on events, roadblocks, and medic areas using an interactive map. The app enables users to report events, receive push notifications, and stay informed about their surroundings while maintaining privacy.
 
 ## 🛠 Tech Stack
 - **iOS**: Swift (SwiftUI, Google Maps SDK)
